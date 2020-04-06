@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/98954bdf5e4d7f95237696f5b18f076b/design-24.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/858bba73f090fd72c1c8caca9bd5ab78/play-services-vision-9.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/8a461edd67bccc8f854a9672c8078945/play-services-tasks-9.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/52db915b08bab6294d15f1384d7325dc/appcompat-v7-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/00ca88988083c6343a74bb138b4dda31/support-v4-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d580c7243266441c9af2fc60f1071dfd/support-fragment-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/a8b986be35af7ff7100f617abbd5d434/support-core-utils-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/25883b2713c15b149da13e25c394e1cc/support-media-compat-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/e87a6c7db4bda51e9d3fa6e45c6ad67d/recyclerview-v7-24.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/2e009dc480b9574729d228a31e3ea488/support-core-ui-24.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d2f315e9e095e92994df1ec4ae4caf0b/animated-vector-drawable-24.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/62c963175148e660128f40985d603a89/support-vector-drawable-24.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/601ca0785feea882545a4e87014d5250/support-compat-24.2.0/AndroidManifest.xml:17:1-27:12
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:3:5-66
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:12:5-43:19
+MERGED from [com.android.support:design:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/98954bdf5e4d7f95237696f5b18f076b/design-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/98954bdf5e4d7f95237696f5b18f076b/design-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/858bba73f090fd72c1c8caca9bd5ab78/play-services-vision-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/858bba73f090fd72c1c8caca9bd5ab78/play-services-vision-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/8a461edd67bccc8f854a9672c8078945/play-services-tasks-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/8a461edd67bccc8f854a9672c8078945/play-services-tasks-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/52db915b08bab6294d15f1384d7325dc/appcompat-v7-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/52db915b08bab6294d15f1384d7325dc/appcompat-v7-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/00ca88988083c6343a74bb138b4dda31/support-v4-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/00ca88988083c6343a74bb138b4dda31/support-v4-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d580c7243266441c9af2fc60f1071dfd/support-fragment-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d580c7243266441c9af2fc60f1071dfd/support-fragment-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/a8b986be35af7ff7100f617abbd5d434/support-core-utils-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/a8b986be35af7ff7100f617abbd5d434/support-core-utils-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/25883b2713c15b149da13e25c394e1cc/support-media-compat-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/25883b2713c15b149da13e25c394e1cc/support-media-compat-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/2e009dc480b9574729d228a31e3ea488/support-core-ui-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/2e009dc480b9574729d228a31e3ea488/support-core-ui-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d2f315e9e095e92994df1ec4ae4caf0b/animated-vector-drawable-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d2f315e9e095e92994df1ec4ae4caf0b/animated-vector-drawable-24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/62c963175148e660128f40985d603a89/support-vector-drawable-24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/62c963175148e660128f40985d603a89/support-vector-drawable-24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/601ca0785feea882545a4e87014d5250/support-compat-24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/601ca0785feea882545a4e87014d5250/support-compat-24.2.0/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:18:9-37
+	android:label
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:17:9-40
+	android:hardwareAccelerated
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:15:9-43
+	android:fullBackupContent
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:14:9-42
+	android:icon
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:19:9-47
+meta-data#com.google.android.gms.version
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:20:9-22:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:21:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:23:9-25:39
+	android:value
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:24:13-70
+activity#com.google.android.gms.samples.vision.barcodereader.MainActivity
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:27:9-39:20
+	android:screenOrientation
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:29:13-56
+	android:configChanges
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity
+ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:41:9-42:49
+	android:label
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:42:13-47
+	android:name
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:41:19-57
+uses-sdk
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/98954bdf5e4d7f95237696f5b18f076b/design-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/98954bdf5e4d7f95237696f5b18f076b/design-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/858bba73f090fd72c1c8caca9bd5ab78/play-services-vision-9.4.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/858bba73f090fd72c1c8caca9bd5ab78/play-services-vision-9.4.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/8a461edd67bccc8f854a9672c8078945/play-services-tasks-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/8a461edd67bccc8f854a9672c8078945/play-services-tasks-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/75e90a5f44667a6859cc020c7d743c90/play-services-basement-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/52db915b08bab6294d15f1384d7325dc/appcompat-v7-24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/52db915b08bab6294d15f1384d7325dc/appcompat-v7-24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/00ca88988083c6343a74bb138b4dda31/support-v4-24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/00ca88988083c6343a74bb138b4dda31/support-v4-24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d580c7243266441c9af2fc60f1071dfd/support-fragment-24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d580c7243266441c9af2fc60f1071dfd/support-fragment-24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/a8b986be35af7ff7100f617abbd5d434/support-core-utils-24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/a8b986be35af7ff7100f617abbd5d434/support-core-utils-24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/25883b2713c15b149da13e25c394e1cc/support-media-compat-24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/25883b2713c15b149da13e25c394e1cc/support-media-compat-24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/e87a6c7db4bda51e9d3fa6e45c6ad67d/recyclerview-v7-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/e87a6c7db4bda51e9d3fa6e45c6ad67d/recyclerview-v7-24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/2e009dc480b9574729d228a31e3ea488/support-core-ui-24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/2e009dc480b9574729d228a31e3ea488/support-core-ui-24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d2f315e9e095e92994df1ec4ae4caf0b/animated-vector-drawable-24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/d2f315e9e095e92994df1ec4ae4caf0b/animated-vector-drawable-24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/62c963175148e660128f40985d603a89/support-vector-drawable-24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/62c963175148e660128f40985d603a89/support-vector-drawable-24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/601ca0785feea882545a4e87014d5250/support-compat-24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/601ca0785feea882545a4e87014d5250/support-compat-24.2.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /root/.gradle/caches/transforms-2/files-2.1/52db915b08bab6294d15f1384d7325dc/appcompat-v7-24.2.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		ADDED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+		INJECTED from /media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:20:19-85

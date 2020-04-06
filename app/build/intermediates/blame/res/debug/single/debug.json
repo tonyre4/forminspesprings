@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/layout-v17_activity_main.xml.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/layout-v17/activity_main.xml"
+    },
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/layout_barcode_capture.xml.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/layout/barcode_capture.xml"
+    },
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/layout-land-v17_activity_main.xml.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/layout-land-v17/activity_main.xml"
+    },
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/layout-land_activity_main.xml.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/build/intermediates/res/merged/debug/layout-land_barcode_capture.xml.flat",
+        "source": "/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/res/layout-land/barcode_capture.xml"
+    }
+]

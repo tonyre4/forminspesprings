@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Formato de inspección</string>
+    <string name="barcode_header">Lector</string>
+    <string name="read_barcode">Leer código</string>
+    <string name="auto_focus">Autoenfoque</string>
+    <string name="use_flash">Flash</string>
+    <string name="barcode_success">Código leído</string>
+    <string name="barcode_failure">Leer código</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="q1">Color louvers PVC-tela</string>
+    <string name="q2">Color del inserto de valance</string>
+    <string name="q3">Color de inserto retorno</string>
+    <string name="q4">Ponchado parte alta louver en "S"</string>
+    <string name="q5">Ponchado cadena decorativa</string>
+    <string name="q6">Medida louvers</string>
+    <string name="q7">Tipo de riel</string>
+    <string name="q8">Posición correcta control de riel</string>
+    <string name="q9">Tipo correcto de control de riel</string>
+    <string name="q10">Agrupado de riel</string>
+    <string name="q11">Cantidad de carritos agrupado</string>
+    <string name="q12">Etiquetas warning de riel</string>
+    <string name="q13">Presencia de cord guide</string>
+    <string name="q14">Presencia de retornos</string>
+    <string name="q15">Medida de retornos</string>
+    <string name="q16">Medida de valance</string>
+    <string name="q17">Tipo de valance</string>
+    <string name="q18">Presiana completa deacuerdo al WT</string>
+</resources>

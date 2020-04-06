@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.android.gms.samples.vision.barcodereader"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="9"
+9-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="24" />
+10-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml
+11
+12    <uses-feature android:name="android.hardware.camera" />
+12-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:6:5-60
+12-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:6:19-57
+13
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:8:5-65
+14-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:8:22-62
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:9:5-81
+15-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:10:5-79
+16-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:10:22-77
+17
+18    <application
+18-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:12:5-43:19
+19        android:allowBackup="true"
+19-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:13:9-35
+20        android:debuggable="true"
+21        android:fullBackupContent="false"
+21-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:14:9-42
+22        android:hardwareAccelerated="true"
+22-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:15:9-43
+23        android:icon="@drawable/icon"
+23-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:16:9-38
+24        android:label="MultiTrackerApp"
+24-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:17:9-40
+25        android:supportsRtl="true"
+25-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:18:9-37
+26        android:testOnly="true"
+27        android:theme="@style/Theme.AppCompat" >
+27-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:19:9-47
+28        <meta-data
+28-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:20:9-22:69
+29            android:name="com.google.android.gms.version"
+29-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:21:13-58
+30            android:value="@integer/google_play_services_version" />
+30-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:22:13-66
+31        <meta-data
+31-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:23:9-25:39
+32            android:name="com.google.android.gms.vision.DEPENDENCIES"
+32-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:24:13-70
+33            android:value="barcode" />
+33-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:25:13-36
+34
+35        <activity
+35-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:27:9-39:20
+36            android:name="com.google.android.gms.samples.vision.barcodereader.MainActivity"
+36-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:28:13-41
+37            android:configChanges="orientation|keyboardHidden"
+37-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:31:13-63
+38            android:label="@string/title_activity_main"
+38-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:29:13-56
+39            android:screenOrientation="portrait" >
+39-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:30:13-49
+40            <intent-filter>
+40-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:32:13-36:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:33:17-69
+41-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:33:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:35:17-77
+43-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:35:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:41:9-42:49
+47            android:name="com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity"
+47-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:41:19-57
+48            android:label="Formato Inspeccion" />
+48-->/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/AndroidManifest.xml:42:13-47
+49        <activity
+49-->[com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+50            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+50-->[com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:20:19-85
+51            android:exported="false"
+51-->[com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+52            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+52-->[com.google.android.gms:play-services-base:9.4.0] /root/.gradle/caches/transforms-2/files-2.1/88e8c36599549bce77ae7e307b3102bd/play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+53    </application>
+54
+55</manifest>

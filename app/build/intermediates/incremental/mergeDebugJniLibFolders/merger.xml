@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/media/tonny/9E3C7B5A3C7B2C81/LINUX/clones/android-vision/visionSamples/Fomulario/app/src/debug/jniLibs"/></dataSet></merger>
